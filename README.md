@@ -10,11 +10,11 @@
 
 ### 👨‍💻 About Me
 
-* 🏢 **Current Role:** Apprentice L3 SI Support & Technical Troubleshooting at **Orange**
-* 🎓 **Education:** Engineering Degree in Computer Networks & Cybersecurity at **ESIEE Paris**
-* 📜 **Certifications:** Fortinet NSE 3 / Fortinet Certified Associate • **Root-Me**
-* 🌱 **Focus Areas:** Network Architecture, Infrastructure Hardening & Telecoms (4G/5G)
-* 💬 **Ask me about:** Cisco, Juniper, OPNsense, Open5GS, Docker, MPLS, SIEM (ELK)
+* **Current Role:** Apprentice L3 SI Support & Technical Troubleshooting at **Orange**
+* **Education:** Engineering Degree in Computer Networks & Cybersecurity at **ESIEE Paris**
+* **Certifications:** Fortinet NSE 3 / Fortinet Certified Associate • **Root-Me**
+* **Focus Areas:** Network Architecture, Infrastructure Hardening & Telecoms (4G/5G)
+* **Ask me about:** Cisco, Juniper, OPNsense, Open5GS, Docker, MPLS, SIEM (ELK)
 
 ---
 
@@ -58,7 +58,7 @@
 
 * **Objective:** Study and deploy a functional 4G/5G cellular core network (SA & NSA architectures).
 * **Tech:** Open5GS, SDR, 4G EPC / 5G Core, Ubuntu Linux.
-* 📁 **[Accéder au projet et à la documentation](./Projet-5G-Open5GS/)**
+* **[Accéder au projet et à la documentation](./Projet-5G-Open5GS/)**
 </details>
 
 <details>
@@ -67,7 +67,7 @@
 
 * **Objective:** Deploy an Odoo ERP environment with centralized Single Sign-On (SSO) authentication.
 * **Tech:** Odoo, Keycloak, Docker, Docker Compose, Ubuntu Server.
-* 📁 **[Accéder au projet et à la documentation](./Projet-Odoo-Keycloak-Docker/)**
+* **[Accéder au projet et à la documentation](./Projet-Odoo-Keycloak-Docker/)**
 </details>
 
 <details>
@@ -76,7 +76,7 @@
 
 * **Objective:** Centralize monitoring and security analysis for NGINX servers and Cisco network devices.
 * **Tech:** Elasticsearch, Logstash, Kibana (ELK), NGINX, Cisco Syslog.
-* 📁 **[Accéder au projet et à la documentation](./Projet-SIEM-ELK/)**
+* **[Accéder au projet et à la documentation](./Projet-SIEM-ELK/)**
 </details>
 
 <details>
@@ -85,7 +85,7 @@
 
 * **Objective:** Design a resilient and secure corporate network infrastructure.
 * **Tech:** Cisco IOS, VPLS, OPNsense, RADIUS, Active Directory.
-* 📁 **[Accéder au projet et à la documentation](./Projet-Infra-Reseau-Complete/)**
+* **[Accéder au projet et à la documentation](./Projet-Infra-Reseau-Complete/)**
 </details>
 
 <details>
@@ -94,7 +94,7 @@
 
 * **Objective:** Learn offensive security techniques by auditing an intentionally vulnerable network.
 * **Tech:** Kali Linux, Nmap, Wireshark, IPsec, GRE Tunnels.
-* 📁 **[Accéder au projet et à la documentation](./Projet-Decouverte-Pentesting/)**
+* **[Accéder au projet et à la documentation](./Projet-Decouverte-Pentesting/)**
 </details>
 
 <details>
@@ -103,7 +103,7 @@
 
 * **Objective:** Practical network topology labs using physical Cisco hardware and GNS3 emulation.
 * **Tech:** Cisco Switches/Routers, GNS3, VirtualBox, UDP/TCP.
-* 📁 **[Accéder au projet et à la documentation](./Projet-Fondamentaux-Reseaux/)**
+* **[Accéder au projet et à la documentation](./Projet-Fondamentaux-Reseaux/)**
 </details>
 
 <details>
@@ -112,7 +112,7 @@
 
 * **Objective:** Processing radio frequency signals via software algorithms instead of dedicated hardware.
 * **Tech:** SDR, GNU Radio, Linux, Python.
-* 📁 **[Accéder au projet et à la documentation](./Projet-Systeme-Transmission-SDR/)**
+* **[Accéder au projet et à la documentation](./Projet-Systeme-Transmission-SDR/)**
 </details>
 
 <details>
@@ -121,7 +121,7 @@
 
 * **Objective:** Build a segmented network based on strict Access Control Lists (ACLs).
 * **Tech:** Cisco Switches/Routers, VLANs, ACLs.
-* 📁 **[Accéder au projet et à la documentation](./Projet-Reseau-Hopital/)**
+* **[Accéder au projet et à la documentation](./Projet-Reseau-Hopital/)**
 </details>
 
 <details>
@@ -130,7 +130,7 @@
 
 * **Objective:** Dynamic e-commerce website dedicated to selling manga online.
 * **Tech:** PHP, HTML5, CSS3, MySQL.
-* 📁 **[Accéder au projet et à la documentation](./Projet-Site-Web-ECommerce/)**
+* **[Accéder au projet et à la documentation](./Projet-Site-Web-ECommerce/)**
 </details>
 
 ---
