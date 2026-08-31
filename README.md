@@ -57,8 +57,8 @@
 <br>
 
 * **Objective:** Study and deploy a functional 4G/5G cellular core network (SA & NSA architectures).
-* **Key Tasks:** Integrated Open5GS core components and connected SDR (Software Defined Radio) equipment for frequency processing.
 * **Tech:** Open5GS, SDR, 4G EPC / 5G Core, Ubuntu Linux.
+* 📁 **[Accéder au projet et à la documentation](./Projet-5G-Open5GS/)**
 </details>
 
 <details>
@@ -66,8 +66,8 @@
 <br>
 
 * **Objective:** Deploy an Odoo ERP environment with centralized Single Sign-On (SSO) authentication.
-* **Key Tasks:** Integrated Keycloak IAM via OAuth2 (`auth_oauth_keycloak`), containerized services with Docker Compose, and managed development via GitHub Projects.
 * **Tech:** Odoo, Keycloak, Docker, Docker Compose, Ubuntu Server.
+* 📁 **[Accéder au projet et à la documentation](./Projet-Odoo-Keycloak-Docker/)**
 </details>
 
 <details>
@@ -75,8 +75,8 @@
 <br>
 
 * **Objective:** Centralize monitoring and security analysis for NGINX servers and Cisco network devices.
-* **Key Tasks:** Created custom Grok filters in Logstash and built real-time Kibana dashboards for security events.
 * **Tech:** Elasticsearch, Logstash, Kibana (ELK), NGINX, Cisco Syslog.
+* 📁 **[Accéder au projet et à la documentation](./Projet-SIEM-ELK/)**
 </details>
 
 <details>
@@ -84,17 +84,26 @@
 <br>
 
 * **Objective:** Design a resilient and secure corporate network infrastructure.
-* **Key Tasks:** Simulated VPLS using GNS3 and Cisco routers, protected perimeter using OPNsense firewall, and deployed Active Directory, RADIUS, NGINX, and Git.
 * **Tech:** Cisco IOS, VPLS, OPNsense, RADIUS, Active Directory.
+* 📁 **[Accéder au projet et à la documentation](./Projet-Infra-Reseau-Complete/)**
 </details>
 
 <details>
 <summary>⚔️ <b>Pentesting & Vulnerable Infrastructure Lab</b></summary>
 <br>
 
-* **Objective:** Learn offensive security techniques by auditing a intentionally vulnerable network.
-* **Key Tasks:** Performed vulnerability analysis, network reconnaissance, and secured tunnels using IPsec and GRE protocols.
+* **Objective:** Learn offensive security techniques by auditing an intentionally vulnerable network.
 * **Tech:** Kali Linux, Nmap, Wireshark, IPsec, GRE Tunnels.
+* 📁 **[Accéder au projet et à la documentation](./Projet-Decouverte-Pentesting/)**
+</details>
+
+<details>
+<summary>🎛️ <b>Network Fundamentals & Protocols Labs</b></summary>
+<br>
+
+* **Objective:** Practical network topology labs using physical Cisco hardware and GNS3 emulation.
+* **Tech:** Cisco Switches/Routers, GNS3, VirtualBox, UDP/TCP.
+* 📁 **[Accéder au projet et à la documentation](./Projet-Fondamentaux-Reseaux/)**
 </details>
 
 <details>
@@ -102,8 +111,8 @@
 <br>
 
 * **Objective:** Processing radio frequency signals via software algorithms instead of dedicated hardware.
-* **Key Tasks:** Analyzed analog/digital signals and built processing flowgraphs.
-* **Tech:** SDR, GNU Radio, Linux.
+* **Tech:** SDR, GNU Radio, Linux, Python.
+* 📁 **[Accéder au projet et à la documentation](./Projet-Systeme-Transmission-SDR/)**
 </details>
 
 <details>
@@ -111,8 +120,17 @@
 <br>
 
 * **Objective:** Build a segmented network based on strict Access Control Lists (ACLs).
-* **Key Tasks:** Separated medical, patient, and administrative access privileges with VLANs and internal routing.
 * **Tech:** Cisco Switches/Routers, VLANs, ACLs.
+* 📁 **[Accéder au projet et à la documentation](./Projet-Reseau-Hopital/)**
+</details>
+
+<details>
+<summary>🛒 <b>Manga E-Commerce Web Application</b></summary>
+<br>
+
+* **Objective:** Dynamic e-commerce website dedicated to selling manga online.
+* **Tech:** PHP, HTML5, CSS3, MySQL.
+* 📁 **[Accéder au projet et à la documentation](./Projet-Site-Web-ECommerce/)**
 </details>
 
 ---
