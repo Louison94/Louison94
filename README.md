@@ -12,7 +12,7 @@
 
 * 🔭 **Current Role:** Apprentice L3 SI Support & Technical Troubleshooting at **Orange**
 * 🎓 **Education:** Engineering Degree in Computer Networks & Cybersecurity at **ESIEE Paris**
-* 📜 **Certifications:** Fortinet NSE 3 / Fortinet Certified Associate in Cybersecurity
+* 📜 **Certifications & Platforms:** Fortinet NSE 3 / Fortinet Certified Associate • **Root-Me**
 * 🌱 **Focus Areas:** Network Architecture, Infrastructure Hardening & Telecoms (4G/5G)
 * 💬 **Ask me about:** Cisco, Juniper, OPNsense, Open5GS, Docker, MPLS, SIEM (ELK)
 
@@ -23,6 +23,7 @@
 **Networks & Security**
 <p>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Juniper Networks-2B78C5?style=for-the-badge&logo=junipernetworks&logoColor=white" alt="Juniper" />
   <img src="https://img.shields.io/badge/Fortinet-CC0000?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
   <img src="https://img.shields.io/badge/OPNsense-D9534F?style=for-the-badge&logo=opnsense&logoColor=white" alt="OPNsense" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -46,9 +47,13 @@
 * 🛡️ **SIEM Implementation:** Set up an **ELK Stack** for centralization, analysis, and security event monitoring.
 * 🔒 **Secure Infrastructure Deployment:** Built an enterprise network featuring Active Directory, Radius, OPNsense, Nginx, and Git.
 * 🌐 **VPLS Simulation:** Simulated a VPLS infrastructure with **GNS3** and physical Cisco hardware.
+* ⚙️ **ERP & Auth Automation:** Configured Odoo + Keycloak authentication with Docker Compose.
 
 ---
 
+### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Louison94&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louison94&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
